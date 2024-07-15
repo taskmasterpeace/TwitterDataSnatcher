@@ -1,0 +1,192 @@
+2024-07-13 04:30:22,655 - INFO - Starting to fetch tweets for 4 users
+2024-07-13 04:33:31,074 - INFO - Starting to fetch tweets for 4 users
+2024-07-13 04:33:31,078 - INFO - Fetching tweets for user: ClutchPoints
+2024-07-13 04:33:31,078 - INFO - Fetching user ID for username: ClutchPoints
+2024-07-13 04:33:31,573 - INFO - User ID for ClutchPoints: 3312776298
+2024-07-13 04:33:31,573 - INFO - Making request for user 3312776298. Request count: 0
+2024-07-13 04:33:32,303 - INFO - Received response for user 3312776298. Tweets in response: 94
+2024-07-13 04:33:32,304 - INFO - Pagination token received: 7140dibdnow9c7btw4b0afbssbalil5xeoqj8ukwfrepf
+2024-07-13 04:33:33,315 - INFO - Making request for user 3312776298. Request count: 1
+2024-07-13 04:33:34,012 - INFO - Received response for user 3312776298. Tweets in response: 95
+2024-07-13 04:33:34,014 - INFO - Pagination token received: 7140dibdnow9c7btw4b0afalo4u9viav1ek1oljl155ip
+2024-07-13 04:33:35,028 - INFO - Making request for user 3312776298. Request count: 2
+2024-07-13 04:33:35,639 - INFO - Received response for user 3312776298. Tweets in response: 96
+2024-07-13 04:33:35,640 - INFO - Pagination token received: 7140dibdnow9c7btw4b0ad7o6cb7rbo9glos7tb8z5t13
+2024-07-13 04:33:36,654 - INFO - Making request for user 3312776298. Request count: 3
+2024-07-13 04:33:37,282 - INFO - Received response for user 3312776298. Tweets in response: 95
+2024-07-13 04:33:37,283 - INFO - Pagination token received: 7140dibdnow9c7btw4b0ad6h0mlm72lh73ynqb9qf8660
+2024-07-13 04:33:38,287 - INFO - Making request for user 3312776298. Request count: 4
+2024-07-13 04:33:38,907 - INFO - Received response for user 3312776298. Tweets in response: 91
+2024-07-13 04:33:38,909 - INFO - Pagination token received: 7140dibdnow9c7btw4azvqryvuz2dwqtvzm93o2agvrcj
+2024-07-13 04:33:39,918 - INFO - Making request for user 3312776298. Request count: 5
+2024-07-13 04:33:40,500 - INFO - Received response for user 3312776298. Tweets in response: 91
+2024-07-13 04:33:40,501 - INFO - Pagination token received: 7140dibdnow9c7btw4azvoo53tkaei86zl536hol3h0du
+2024-07-13 04:33:41,516 - INFO - Making request for user 3312776298. Request count: 6
+2024-07-13 04:33:42,094 - INFO - Received response for user 3312776298. Tweets in response: 91
+2024-07-13 04:33:42,095 - INFO - Pagination token received: 7140dibdnow9c7btw4azvomca9557lomb4jgkq6mdl5x1
+2024-07-13 04:33:43,101 - INFO - Making request for user 3312776298. Request count: 7
+2024-07-13 04:33:43,648 - INFO - Received response for user 3312776298. Tweets in response: 92
+2024-07-13 04:33:43,649 - INFO - Pagination token received: 7140dibdnow9c7btw4azvmj494r68df2a8h0kh2xstmph
+2024-07-13 04:33:44,651 - INFO - Making request for user 3312776298. Request count: 8
+2024-07-13 04:33:45,189 - INFO - Received response for user 3312776298. Tweets in response: 93
+2024-07-13 04:33:45,190 - INFO - Pagination token received: 7140dibdnow9c7btw4azvmhbijnkjwl7m3a7z54drn19v
+2024-07-13 04:33:46,201 - INFO - Making request for user 3312776298. Request count: 9
+2024-07-13 04:33:46,781 - INFO - Received response for user 3312776298. Tweets in response: 94
+2024-07-13 04:33:46,782 - INFO - Pagination token received: 7140dibdnow9c7btw4azvkd712u4hflfkutpr6ajxqw53
+2024-07-13 04:33:47,788 - INFO - Making request for user 3312776298. Request count: 10
+2024-07-13 04:33:47,838 - WARNING - Rate limit exceeded. Sleeping for 60 seconds.
+2024-07-13 04:34:47,843 - INFO - Making request for user 3312776298. Request count: 11
+2024-07-13 04:34:48,126 - WARNING - Rate limit exceeded. Sleeping for 120 seconds.
+2024-07-13 04:36:48,123 - INFO - Making request for user 3312776298. Request count: 12
+2024-07-13 04:36:48,262 - WARNING - Rate limit exceeded. Sleeping for 240 seconds.
+2024-07-13 04:40:48,270 - INFO - Making request for user 3312776298. Request count: 13
+2024-07-13 04:40:48,410 - WARNING - Rate limit exceeded. Sleeping for 480 seconds.
+2024-07-13 04:48:48,412 - INFO - Making request for user 3312776298. Request count: 14
+2024-07-13 04:48:49,110 - INFO - Received response for user 3312776298. Tweets in response: 92
+2024-07-13 04:48:49,112 - INFO - Pagination token received: 7140dibdnow9c7btw4azvkbzvelzt1myp0pmz69pqccoj
+2024-07-13 04:48:50,121 - INFO - Finished fetching tweets for user 3312776298. Total tweets: 1024
+2024-07-13 04:48:50,125 - INFO - Tweets for ClutchPoints saved successfully. Count: 1000
+2024-07-13 04:48:55,138 - INFO - Fetching tweets for user: islandgodverb
+2024-07-13 04:48:55,138 - INFO - Fetching user ID for username: islandgodverb
+2024-07-13 04:48:55,214 - INFO - User ID for islandgodverb: 1465697795558440978
+2024-07-13 04:48:55,215 - INFO - Making request for user 1465697795558440978. Request count: 0
+2024-07-13 04:48:55,694 - INFO - Received response for user 1465697795558440978. Tweets in response: 95
+2024-07-13 04:48:55,696 - INFO - Pagination token received: 7140dibdnow9c7btw4azvom1htjwptxp2yavr2mobxquo
+2024-07-13 04:48:56,708 - INFO - Making request for user 1465697795558440978. Request count: 1
+2024-07-13 04:48:57,259 - INFO - Received response for user 1465697795558440978. Tweets in response: 100
+2024-07-13 04:48:57,260 - INFO - Pagination token received: 7140dibdnow9c7btw4azvi79gyhpsjde90vzud2wqclrp
+2024-07-13 04:48:58,263 - INFO - Making request for user 1465697795558440978. Request count: 2
+2024-07-13 04:48:58,738 - INFO - Received response for user 1465697795558440978. Tweets in response: 100
+2024-07-13 04:48:58,739 - INFO - Pagination token received: 7140dibdnow9c7btw4azvdxtgw2s0w85c6k6vol9hycky
+2024-07-13 04:48:59,741 - INFO - Making request for user 1465697795558440978. Request count: 3
+2024-07-13 04:49:00,220 - INFO - Received response for user 1465697795558440978. Tweets in response: 100
+2024-07-13 04:49:00,221 - INFO - Pagination token received: 7140dibdnow9c7btw4azv9oymk3r075jp5s2a5ip52bsl
+2024-07-13 04:49:01,234 - INFO - Making request for user 1465697795558440978. Request count: 4
+2024-07-13 04:49:01,417 - INFO - Received response for user 1465697795558440978. Tweets in response: 21
+2024-07-13 04:49:01,419 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-13 04:49:01,419 - INFO - Finished fetching tweets for user 1465697795558440978. Total tweets: 416
+2024-07-13 04:49:01,420 - INFO - Tweets for islandgodverb saved successfully. Count: 416
+2024-07-13 04:49:06,431 - INFO - Fetching tweets for user: ChrisUnbias
+2024-07-13 04:49:06,431 - INFO - Fetching user ID for username: ChrisUnbias
+2024-07-13 04:49:06,493 - INFO - User ID for ChrisUnbias: 1161792061135364101
+2024-07-13 04:49:06,494 - INFO - Making request for user 1161792061135364101. Request count: 0
+2024-07-13 04:49:06,908 - INFO - Received response for user 1161792061135364101. Tweets in response: 100
+2024-07-13 04:49:06,910 - INFO - Pagination token received: 7140dibdnow9c7btw4azvom1pdt2b01kzssovamz9sgmv
+2024-07-13 04:49:07,922 - INFO - Making request for user 1161792061135364101. Request count: 1
+2024-07-13 04:49:08,385 - INFO - Received response for user 1161792061135364101. Tweets in response: 100
+2024-07-13 04:49:08,387 - INFO - Pagination token received: 7140dibdnow9c7btw4azvkd72mb40wrzlkl2gqeyu08xi
+2024-07-13 04:49:09,398 - INFO - Making request for user 1161792061135364101. Request count: 2
+2024-07-13 04:49:09,862 - INFO - Received response for user 1161792061135364101. Tweets in response: 100
+2024-07-13 04:49:09,864 - INFO - Pagination token received: 7140dibdnow9c7btw4azvg41iux8hcb19qbtc3j5kx0e1
+2024-07-13 04:49:10,876 - INFO - Making request for user 1161792061135364101. Request count: 3
+2024-07-13 04:49:11,340 - INFO - Received response for user 1161792061135364101. Tweets in response: 100
+2024-07-13 04:49:11,341 - INFO - Pagination token received: 7140dibdnow9c7btw4azv9qghnqa05tt1m8fl79rghl4o
+2024-07-13 04:49:12,345 - INFO - Making request for user 1161792061135364101. Request count: 4
+2024-07-13 04:49:12,388 - WARNING - Rate limit exceeded. Sleeping for 60 seconds.
+2024-07-13 04:50:12,391 - INFO - Making request for user 1161792061135364101. Request count: 5
+2024-07-13 04:50:12,526 - WARNING - Rate limit exceeded. Sleeping for 120 seconds.
+2024-07-13 04:52:12,536 - INFO - Making request for user 1161792061135364101. Request count: 6
+2024-07-13 04:52:12,651 - WARNING - Rate limit exceeded. Sleeping for 240 seconds.
+2024-07-13 04:56:12,664 - INFO - Making request for user 1161792061135364101. Request count: 7
+2024-07-13 04:56:12,778 - WARNING - Rate limit exceeded. Sleeping for 480 seconds.
+2024-07-13 05:04:12,796 - INFO - Making request for user 1161792061135364101. Request count: 8
+2024-07-13 05:04:13,079 - INFO - Received response for user 1161792061135364101. Tweets in response: 17
+2024-07-13 05:04:13,080 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-13 05:04:13,081 - INFO - Finished fetching tweets for user 1161792061135364101. Total tweets: 417
+2024-07-13 05:04:13,082 - INFO - Tweets for ChrisUnbias saved successfully. Count: 417
+2024-07-13 05:04:18,097 - INFO - Fetching tweets for user: rapgrid
+2024-07-13 05:04:18,097 - INFO - Fetching user ID for username: rapgrid
+2024-07-13 05:04:18,184 - INFO - User ID for rapgrid: 406425390
+2024-07-13 05:04:18,184 - INFO - Making request for user 406425390. Request count: 0
+2024-07-13 05:04:18,549 - INFO - Received response for user 406425390. Tweets in response: 28
+2024-07-13 05:04:18,550 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-13 05:04:18,550 - INFO - Finished fetching tweets for user 406425390. Total tweets: 28
+2024-07-13 05:04:18,551 - INFO - Tweets for rapgrid saved successfully. Count: 28
+2024-07-13 05:04:23,610 - INFO - Finished fetching tweets. Total fetched this month: 7742
+2024-07-13 09:24:40,605 - INFO - Starting to fetch tweets for 1 users
+2024-07-13 09:24:40,616 - INFO - Fetching tweets for user: Taskmasterpeace
+2024-07-13 09:24:40,616 - INFO - Fetching user ID for username: Taskmasterpeace
+2024-07-13 09:24:40,843 - INFO - User ID for Taskmasterpeace: 14842218
+2024-07-13 09:24:40,843 - INFO - Making request for user 14842218. Request count: 0
+2024-07-13 09:24:41,353 - INFO - Received response for user 14842218. Tweets in response: 60
+2024-07-13 09:24:41,354 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-13 09:24:41,355 - INFO - Finished fetching tweets for user 14842218. Total tweets: 60
+2024-07-13 09:24:41,356 - INFO - Tweets for Taskmasterpeace saved successfully. Count: 60
+2024-07-13 09:24:46,388 - INFO - Finished fetching tweets. Total fetched this month: 7802
+2024-07-15 03:31:02,995 - INFO - Starting to fetch tweets for 9 users
+2024-07-15 03:31:03,008 - INFO - Fetching tweets for user: LTBRpodcast
+2024-07-15 03:31:03,010 - INFO - Fetching user ID for username: LTBRpodcast
+2024-07-15 03:31:04,160 - INFO - User ID for LTBRpodcast: 926449165915312128
+2024-07-15 03:31:04,161 - INFO - Making request for user 926449165915312128. Request count: 0
+2024-07-15 03:31:04,752 - INFO - Received response for user 926449165915312128. Tweets in response: 25
+2024-07-15 03:31:04,754 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-15 03:31:04,754 - INFO - Finished fetching tweets for user 926449165915312128. Total tweets: 25
+2024-07-15 03:31:04,774 - INFO - Tweets for LTBRpodcast saved successfully. Count: 25
+2024-07-15 03:31:09,778 - INFO - Fetching tweets for user: 15MOFERadio
+2024-07-15 03:31:09,779 - INFO - Fetching user ID for username: 15MOFERadio
+2024-07-15 03:31:09,834 - INFO - User ID for 15MOFERadio: 320990018
+2024-07-15 03:31:09,834 - INFO - Making request for user 320990018. Request count: 0
+2024-07-15 03:31:09,887 - INFO - Received response for user 320990018. Tweets in response: 0
+2024-07-15 03:31:09,887 - INFO - No tweets in response. Breaking loop.
+2024-07-15 03:31:09,888 - INFO - Finished fetching tweets for user 320990018. Total tweets: 0
+2024-07-15 03:31:09,888 - INFO - No tweets found for 15MOFERadio in the specified date range.
+2024-07-15 03:31:14,901 - INFO - Fetching tweets for user: hiphopisrealtv
+2024-07-15 03:31:14,901 - INFO - Fetching user ID for username: hiphopisrealtv
+2024-07-15 03:31:14,959 - INFO - User ID for hiphopisrealtv: 1145668782
+2024-07-15 03:31:14,960 - INFO - Making request for user 1145668782. Request count: 0
+2024-07-15 03:31:15,215 - INFO - Received response for user 1145668782. Tweets in response: 16
+2024-07-15 03:31:15,217 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-15 03:31:15,217 - INFO - Finished fetching tweets for user 1145668782. Total tweets: 16
+2024-07-15 03:31:15,218 - INFO - Tweets for hiphopisrealtv saved successfully. Count: 16
+2024-07-15 03:31:20,234 - INFO - Fetching tweets for user: KingDnaTooth
+2024-07-15 03:31:20,234 - INFO - Fetching user ID for username: KingDnaTooth
+2024-07-15 03:31:20,285 - INFO - User ID for KingDnaTooth: 1422196899474460675
+2024-07-15 03:31:20,285 - INFO - Making request for user 1422196899474460675. Request count: 0
+2024-07-15 03:31:20,535 - INFO - Received response for user 1422196899474460675. Tweets in response: 16
+2024-07-15 03:31:20,537 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-15 03:31:20,537 - INFO - Finished fetching tweets for user 1422196899474460675. Total tweets: 16
+2024-07-15 03:31:20,538 - INFO - Tweets for KingDnaTooth saved successfully. Count: 16
+2024-07-15 03:31:25,539 - INFO - Fetching tweets for user: Vada_Fly
+2024-07-15 03:31:25,539 - INFO - Fetching user ID for username: Vada_Fly
+2024-07-15 03:31:25,597 - INFO - User ID for Vada_Fly: 506959894
+2024-07-15 03:31:25,597 - INFO - Making request for user 506959894. Request count: 0
+2024-07-15 03:31:26,069 - INFO - Received response for user 506959894. Tweets in response: 98
+2024-07-15 03:31:26,070 - INFO - Pagination token received: 7140dibdnow9c7btw4b0ahfbqf4qnp6b6rj3porwbtn3t
+2024-07-15 03:31:27,080 - INFO - Making request for user 506959894. Request count: 1
+2024-07-15 03:31:27,311 - INFO - Received response for user 506959894. Tweets in response: 21
+2024-07-15 03:31:27,329 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-15 03:31:27,329 - INFO - Finished fetching tweets for user 506959894. Total tweets: 119
+2024-07-15 03:31:27,331 - INFO - Tweets for Vada_Fly saved successfully. Count: 119
+2024-07-15 03:31:32,346 - INFO - Fetching tweets for user: BattleRapTrap
+2024-07-15 03:31:32,346 - INFO - Fetching user ID for username: BattleRapTrap
+2024-07-15 03:31:32,405 - INFO - User ID for BattleRapTrap: 1854823992
+2024-07-15 03:31:32,406 - INFO - Making request for user 1854823992. Request count: 0
+2024-07-15 03:31:32,750 - INFO - Received response for user 1854823992. Tweets in response: 35
+2024-07-15 03:31:32,752 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-15 03:31:32,752 - INFO - Finished fetching tweets for user 1854823992. Total tweets: 35
+2024-07-15 03:31:32,754 - INFO - Tweets for BattleRapTrap saved successfully. Count: 35
+2024-07-15 03:31:37,765 - INFO - Fetching tweets for user: ChrisUnbias
+2024-07-15 03:31:37,765 - INFO - Fetching user ID for username: ChrisUnbias
+2024-07-15 03:31:37,824 - INFO - User ID for ChrisUnbias: 1161792061135364101
+2024-07-15 03:31:37,825 - INFO - Making request for user 1161792061135364101. Request count: 0
+2024-07-15 03:31:38,148 - INFO - Received response for user 1161792061135364101. Tweets in response: 31
+2024-07-15 03:31:38,149 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-15 03:31:38,149 - INFO - Finished fetching tweets for user 1161792061135364101. Total tweets: 31
+2024-07-15 03:31:38,151 - INFO - Tweets for ChrisUnbias saved successfully. Count: 31
+2024-07-15 03:31:43,165 - INFO - Fetching tweets for user: rapgrid
+2024-07-15 03:31:43,166 - INFO - Fetching user ID for username: rapgrid
+2024-07-15 03:31:43,222 - INFO - User ID for rapgrid: 406425390
+2024-07-15 03:31:43,222 - INFO - Making request for user 406425390. Request count: 0
+2024-07-15 03:31:43,279 - INFO - Received response for user 406425390. Tweets in response: 0
+2024-07-15 03:31:43,279 - INFO - No tweets in response. Breaking loop.
+2024-07-15 03:31:43,279 - INFO - Finished fetching tweets for user 406425390. Total tweets: 0
+2024-07-15 03:31:43,279 - INFO - No tweets found for rapgrid in the specified date range.
+2024-07-15 03:31:48,283 - INFO - Fetching tweets for user: OTFMZLIVE
+2024-07-15 03:31:48,283 - INFO - Fetching user ID for username: OTFMZLIVE
+2024-07-15 03:31:48,335 - INFO - User ID for OTFMZLIVE: 1339330854825431041
+2024-07-15 03:31:48,336 - INFO - Making request for user 1339330854825431041. Request count: 0
+2024-07-15 03:31:48,426 - INFO - Received response for user 1339330854825431041. Tweets in response: 2
+2024-07-15 03:31:48,427 - INFO - No more pagination tokens. All tweets fetched.
+2024-07-15 03:31:48,428 - INFO - Finished fetching tweets for user 1339330854825431041. Total tweets: 2
+2024-07-15 03:31:48,429 - INFO - Tweets for OTFMZLIVE saved successfully. Count: 2
+2024-07-15 03:31:53,537 - INFO - Finished fetching tweets. Total fetched this month: 8046
